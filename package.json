@@ -1,0 +1,26 @@
+{
+  "name": "atestadaykeepsthe-doctorsaway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slane086/aTestADayKeepsThe-DoctorsAway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slane086/aTestADayKeepsThe-DoctorsAway/issues"
+  },
+  "homepage": "https://github.com/slane086/aTestADayKeepsThe-DoctorsAway#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5",
+    "typescript": "^5.0.3"
+  }
+}
